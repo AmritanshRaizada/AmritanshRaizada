@@ -30,10 +30,13 @@
 
 <!-- STATS SECTION -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritanshRaizada&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritanshRaizada&theme=github_dark&hide_border=true&layout=compact" height="180" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AmritanshRaizada&theme=github_dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritanshRaizada&theme=github_dark&hide_border=false&border_color=58A6FF&include_all_commits=true&count_private=true" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritanshRaizada&theme=github_dark&hide_border=false&border_color=58A6FF&layout=compact" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+  
+  <br/><br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AmritanshRaizada&theme=github_dark&hide_border=false&border_color=58A6FF" width="95%" style="border: 2px solid #58A6FF; border-radius: 8px;" />
 </div>
 
 ---
