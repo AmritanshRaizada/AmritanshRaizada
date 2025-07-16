@@ -2,7 +2,7 @@
 <div align="center">
   <br/>
   
-  <h1 style="margin-bottom: 10px;">👨‍💻 Hey there! I'm Amritansh</h1>
+  <h1 style="margin-bottom: 10px;">🔴 Hey there! I'm Amritansh</h1>
   <p style="font-size: 1.1em; margin-top: 0;"><b>Engineering robust solutions at the intersection of APIs and AI</b></p>
   
   <p align="center">
