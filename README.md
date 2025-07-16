@@ -50,11 +50,6 @@
 <br>
 
 
-<div align="center">
-  <h2>🏆 Top Contributions</h2>
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmritanshRaizada&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
-</div>
-
 
 <!-- CONTACT -->
 <div align="center">
