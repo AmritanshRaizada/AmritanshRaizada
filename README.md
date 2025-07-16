@@ -6,7 +6,17 @@
   <p style="font-size: 1.1em; margin-top: 0;"><b>Engineering robust solutions at the intersection of APIs and AI</b></p>
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,react,nextjs,nestjs,nodejs,aws,docker,kubernetes,postgres,mongodb,redis,git,github" />
+    <!-- Tier 1: Core Expertise -->
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes" title="Core Expertise" />
+    &nbsp;&nbsp;
+    <!-- Tier 2: Strong Skills -->
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,postgres,redis" title="Strong Skills" />
+    &nbsp;&nbsp;
+    <!-- Tier 3: Proficient -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,git,github,terraform" title="Proficient" />
+    &nbsp;&nbsp;
+    <!-- Tier 4: Familiar -->
+    <img src="https://skillicons.dev/icons?i=python,flask,mongodb,gcp,tailwind" title="Familiar" />
   </p>
   <br>
 
