@@ -40,6 +40,14 @@
 </div>
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AmritanshRaizada/AmritanshRaizada/blob/output/github-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AmritanshRaizada/AmritanshRaizada/blob/output/github-snake.svg?raw=true">
+    <img alt="GitHub Snake Contribution Animation" src="https://github.com/AmritanshRaizada/AmritanshRaizada/blob/output/github-snake.svg?raw=true" width="100%" height="auto">
+  </picture>
+</p>
+
 
 <!-- ABOUT ME -->
 <div align="center">
