@@ -39,10 +39,10 @@
   <h2>💡 About Me</h2>
   
   <p align="center">
-  🔧 Building an <b>API Marketplace Platform</b> for developers<br/>
-  🤝 Collaborating on <b>scalable backend systems</b><br/>
-  📚 Mastering <b>Spring Boot & NestJS</b> architectures<br/>
-  🔒 Passionate about <b>API security & authentication</b><br/>
+  .Building an <b>API Marketplace Platform</b> for developers<br/>
+  .Collaborating on <b>scalable backend systems</b><br/>
+  .Mastering <b>Spring Boot & NestJS</b> architectures<br/>
+  .Passionate about <b>API security & authentication</b><br/>
   ⚡ <i>Fun fact:</i> Deployed global API from VS Code in 5 minutes
   </p>
 </div>
