@@ -6,17 +6,19 @@
   <p style="font-size: 1.1em; margin-top: 0;"><b>Engineering robust solutions at the intersection of APIs and AI</b></p>
   
   <p align="center">
-    <!-- Tier 1: Core Expertise -->
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes" title="Core Expertise" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,kubernetes,docker" title="Core Expertise" />
     &nbsp;&nbsp;
-    <!-- Tier 2: Strong Skills -->
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,postgres,redis" title="Strong Skills" />
+    <!-- Tier 2: Production Strength (Frequent Use) -->
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,postgres,redis,terraform" title="Production Ready" />
     &nbsp;&nbsp;
-    <!-- Tier 3: Proficient -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,git,github,terraform" title="Proficient" />
+    <!-- Tier 3: Fluent (Multiple Projects) -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,git,github,cloudflare" title="Fluent" />
     &nbsp;&nbsp;
-    <!-- Tier 4: Familiar -->
-    <img src="https://skillicons.dev/icons?i=python,flask,mongodb,gcp,tailwind" title="Familiar" />
+    <!-- Tier 4: Proficient (Comfortable) -->
+    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,gcp,tailwind,supabase" title="Proficient" />
+    &nbsp;&nbsp;
+    <!-- Tier 5: Familiar (Working Knowledge) -->
+    <img src="https://skillicons.dev/icons?i=flask,django,html,css,vite,bun,raspberrypi,postman" title="Familiar" />
   </p>
   <br>
 
