@@ -22,15 +22,15 @@
   </p>
   <br>
 
-
-
-[![Amritansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmritanshRaizada&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=90EE90&area_opacity=0.25&hide_border=true&custom_title=🔥%20Amritansh's%20GitHub%20Contribution%20Graph)](https://github.com/AmritanshRaizada)
-
   <div style="margin: 10px 0 20px 0;">
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=435&lines=Full+Stack+AI+Developer;Software+Engineer;DevOps+Engineer;Backend+Architect;API+Solutions+Expert" alt="Typing SVG" />
   </div>
   <br/>
 </div>
+
+[![Amritansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmritanshRaizada&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=90EE90&area_opacity=0.25&hide_border=true&custom_title=🔥%20Amritansh's%20GitHub%20Contribution%20Graph)](https://github.com/AmritanshRaizada)
+
+
 
 <!-- STATS SECTION -->
 <div align="center">
